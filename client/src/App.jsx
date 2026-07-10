@@ -3,7 +3,9 @@ import React from 'react';
 function App() {
   return (
     <div>
-      <h1>Hello</h1>
+      <h1 className="text-5xl font-bold text-blue-600">
+        DevVerse AI 🚀
+      </h1>
     </div>
   );
 }
