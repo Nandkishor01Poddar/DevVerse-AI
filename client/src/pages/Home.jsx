@@ -4,6 +4,11 @@ function Home() {
   return (
     <>
       <Hero />
+      <TrustedBy />
+
+      <Features />
+
+      <Stats />
     </>
   );
 }
